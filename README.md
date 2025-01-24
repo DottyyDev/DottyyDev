@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dotty, or you can call me Carson
-- 👀 I’m interested in ... Python, HTML, and JS!
+- 👋 Hi, I’m Dotty,
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @dottyy#4200 on discord, @ThatClownDottyy on twitter
+- 📫 How to reach me ... @dottyy#4200 on discord, @BIGDOTTYY on twitter
 
 <!---
 DottyyDev/DottyyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
